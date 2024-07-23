@@ -1,4 +1,4 @@
-# Django-PostgreSQL
+# Django-PostgreSQL-Supabase
 
 Django-PostgreSQL is a project that demonstrates how to connect a Django application to a PostgreSQL database.
 
