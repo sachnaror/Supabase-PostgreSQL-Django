@@ -1,11 +1,11 @@
-# Supabase-Django
+# Django-PostgreSQL
 
-Supabase-Django is a project that demonstrates how to connect a Django application to Supabase's PostgreSQL database.
+Django-PostgreSQL is a project that demonstrates how to connect a Django application to a PostgreSQL database.
 
 ## Prerequisites
 
-- Python 3.6+
-- Django 3.0+
+- Python 3.12
+- Django 5.0
 - psycopg2-binary
 
 ## Setup
@@ -27,7 +27,7 @@ Supabase-Django is a project that demonstrates how to connect a Django applicati
    pip install -r requirements.txt
 
 4. **Update settings.py**
-   with the Supabase PostgreSQL database configuration:
+   with the PostgreSQL database configuration:
    Open Supabase-Django/settings.py and update the DATABASES configuration:
 
 ```bash
